@@ -1,10 +1,10 @@
-# 🚕 OLA Power BI Dashboard 
+#  OLA Power BI Dashboard 
 
 This project is a multi-page Power BI dashboard built using OLA's data of one month . The dashboard offers deep insights into the overall performance, customer ratings, cancellations, vehicle type usage, and revenue analytics — enabling clear, actionable understanding of business metrics.
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 The dashboard consists of **5 pages**, each targeting a specific aspect of performance:
 
@@ -31,7 +31,7 @@ The dashboard consists of **5 pages**, each targeting a specific aspect of perfo
 
 ---
 
-## 📁 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Power BI Desktop**
 - Data Cleaning with **Power Query**
@@ -40,7 +40,7 @@ The dashboard consists of **5 pages**, each targeting a specific aspect of perfo
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To view the dashboard:
 
@@ -48,4 +48,26 @@ To view the dashboard:
 2. Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Explore each tab for visual insights.
 ---
+
+## screenchot
+1.) OVERALL PERFORMANCE
+![overall](https://github.com/user-attachments/assets/b206ff55-0f9c-4d74-8a8c-eddde53d27c5)
+
+2.)VEHICLE TYPE
+![vehicle type](https://github.com/user-attachments/assets/11bd3522-3c8e-40ad-a1d3-78e34d3512a9)
+
+3.)REVENUE
+![revenue](https://github.com/user-attachments/assets/f8157423-441f-4b83-9856-0558c48761fd)
+
+4.)CANCELLATION
+![cancellation](https://github.com/user-attachments/assets/6b30fa3d-b84f-486d-ab93-330825ec2666)
+
+5.)RATINGS
+![ratings](https://github.com/user-attachments/assets/fd4fb8f6-77ae-4968-982b-e9b7ab1842cc)
+
+
+
+
+
+
 
